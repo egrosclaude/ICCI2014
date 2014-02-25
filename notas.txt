@@ -1,0 +1,35 @@
+Eduardo, 
+
+Te envio algunos parrafos que tendria que cambiar en sección "6.3 Dc in SDI".  Te los envio en español e inglés porque tengo algunas dudas si estan bien escritos. 
+
+gracias 
+Luis
+
+---------------------------------------------------------------------------------
+La compartición y analisis de datos espaciales requiere un cambio sobre cómo los involucrados de las SDI se piensan a si mismos y sobre coo ellos piensan el espacio.
+
+Spatial data sharing and analysis requires a change on how SDI' stakeholders think about themselves and a change on how they think the space.
+
+---------------------------------------------------------------------------------
+No cambia sus objetivos de la organización, sino en la manera de obtenerlos a través del trabajo colaborativo con la ayuda de otros mas capaces (MKO).
+
+It does not change its organizational goals but in the way to obtain them through the collaborative work with the help of more knowledgeable others
+
+
+---------------------------------------------------------------------------------
+El hecho que el conocimiento sobre el espacio es estructurado de una manera diferente a como lo haria una organización trabajando en forma aislada,
+introduce cambios epistemologicos.
+
+The fact that the space knowledge is structured differently as organization would do if it works in isolation, introduce epistemological changes.
+
+---------------------------------------------------------------------------------
+El hecho que los involucrados de las SDI utilizan una representacion compartida del espacio, implica, de alguna forma, aplicar una interpretación compartida (necesitamos estudiar aspectos hermenéuticos)
+
+The fact that SDI stakeholders should use a shared representation of the space knowledge implies to apply a shared interpretation (we need to study hermeneutic issues).
+
+
+---------------------------------------------------------------------------------
+remplazar needed por need en:
+
+but need to be appropriately defined
+
